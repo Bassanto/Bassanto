@@ -11,10 +11,10 @@ I turn raw data into decisions. I build end-to-end analyses, from messy data cle
 - **Data cleaning & modelling:** SQL, Power Query, DAX, star-schema design
 
 ## 🛠️ Tech Stack
-**Analysis:** SQL (T-SQL) · Excel (Power Query, Power Pivot, DAX) · Python
-**Visualization:** Power BI · Excel Dashboards
-**Tools:** Git · GitHub · VS Code
-**Ai** Claude Ai and ChatGPT
+- **Analysis:** SQL (T-SQL) · Excel (Power Query, Power Pivot, DAX) · Python
+- **Visualization:** Power BI · Excel Dashboards
+- **Tools:** Git · GitHub · VS Code
+- **Ai** Claude Ai and ChatGPT
 
 ## 🚀 Featured Projects
 | Project | Focus | Tools |
